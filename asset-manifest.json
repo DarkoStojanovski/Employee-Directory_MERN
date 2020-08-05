@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Employee-Directory_MERN/static/css/main.8b5b3d4a.chunk.css",
+    "main.js": "/Employee-Directory_MERN/static/js/main.26d146ac.chunk.js",
+    "main.js.map": "/Employee-Directory_MERN/static/js/main.26d146ac.chunk.js.map",
+    "runtime-main.js": "/Employee-Directory_MERN/static/js/runtime-main.17ce251a.js",
+    "runtime-main.js.map": "/Employee-Directory_MERN/static/js/runtime-main.17ce251a.js.map",
+    "static/js/2.6d9f8b2c.chunk.js": "/Employee-Directory_MERN/static/js/2.6d9f8b2c.chunk.js",
+    "static/js/2.6d9f8b2c.chunk.js.map": "/Employee-Directory_MERN/static/js/2.6d9f8b2c.chunk.js.map",
+    "index.html": "/Employee-Directory_MERN/index.html",
+    "precache-manifest.445a3612ea4f86d4c06b4da7a66c091e.js": "/Employee-Directory_MERN/precache-manifest.445a3612ea4f86d4c06b4da7a66c091e.js",
+    "service-worker.js": "/Employee-Directory_MERN/service-worker.js",
+    "static/css/main.8b5b3d4a.chunk.css.map": "/Employee-Directory_MERN/static/css/main.8b5b3d4a.chunk.css.map",
+    "static/js/2.6d9f8b2c.chunk.js.LICENSE.txt": "/Employee-Directory_MERN/static/js/2.6d9f8b2c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Employee-Directory_MERN/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ce251a.js",
+    "static/js/2.6d9f8b2c.chunk.js",
+    "static/css/main.8b5b3d4a.chunk.css",
+    "static/js/main.26d146ac.chunk.js"
+  ]
+}
